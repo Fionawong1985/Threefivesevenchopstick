@@ -1,0 +1,7 @@
+C:\Users\wangchen1\source\repos\WebApplication2\ChopStickTest\obj\Debug\ChopStickTest.csprojAssemblyReference.cache
+C:\Users\wangchen1\source\repos\WebApplication2\ChopStickTest\obj\Debug\ChopStickTest.csproj.CoreCompileInputs.cache
+C:\Users\wangchen1\source\repos\WebApplication2\ChopStickTest\bin\Debug\ChopStickTest.exe.config
+C:\Users\wangchen1\source\repos\WebApplication2\ChopStickTest\bin\Debug\ChopStickTest.exe
+C:\Users\wangchen1\source\repos\WebApplication2\ChopStickTest\bin\Debug\ChopStickTest.pdb
+C:\Users\wangchen1\source\repos\WebApplication2\ChopStickTest\obj\Debug\ChopStickTest.exe
+C:\Users\wangchen1\source\repos\WebApplication2\ChopStickTest\obj\Debug\ChopStickTest.pdb
